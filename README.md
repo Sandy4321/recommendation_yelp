@@ -1,6 +1,9 @@
 # project-2-final-jlyc-fp
 project-2-final-jlyc-fp created by GitHub Classroom
 
+This is a recommendation project for yelp dataset in Yelp Dataset Chanllenge.
+The dataset can be downloaded in https://www.yelp.com/dataset/challenge
+
 Team members: Xiao Ji (xj2247@columbia.edu, xj2247), Xinyi Liu (xl2904@columbia.edu, xl2904), 
 Jiaying Chen (jc5299@columbia.edu, jc5299), Duanyue Yun (dy2400@columbia.edu, dy2400)
 
